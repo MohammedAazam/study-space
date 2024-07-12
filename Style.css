@@ -14,7 +14,6 @@ html, body {
     display: flex;
     height: 100%;
     width:  100%;
-    background-color: aqua;
 }
 
 #left {
@@ -30,6 +29,12 @@ html, body {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.sideimg img{
+    width: 550px;
+    height: 550px;
+    margin-right: 60px;
 }
 
 #navbar {
